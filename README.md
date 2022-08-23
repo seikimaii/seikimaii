@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @seikimaii
-- 👀 I’m interested in artificial intelligence. 
-- 🌱 I’m currently learning NLP and object detection.
+- 👀 I’m now coding some automation stuff.
 
 
 <!---
